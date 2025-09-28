@@ -8,8 +8,10 @@ Beyond game development, I am the creator and maintainer of “Buggy,” an open
 # Google Chrome Home Page
 A better home page for google chrome with unlimited shortcuts so you can pin as many websites as you want and group them for better organisation. It has dark theme and can be set up with 'New Tab Redirect' and paste the link of my open source repository.
 
-# CMD-plus-plsu
+# CMD-plus-plus
 A cmd with basic functionality but easier to use, where you can customize the terms which you use to name things. You can move around your system, create, remove and rename directries, print(echo) things, and have a more user friendly experience.
+
+# Miscellaneous
 
 My technical pursuits also extend into hardware, where I experiment with small electronics and hardware projects, often integrating software and microcontroller programming to create minimalist, functional devices. This hands-on experience with both software and hardware enriches my approach to problem-solving and design.
 
@@ -19,6 +21,6 @@ I am always learning and exploring new technologies, striving to bridge the gap 
 
 Google Play Store: A.Y.N.S.J.C. Developer Portfolio
 YouTube Channel: A.Y.N.S.J.C. on YouTube
-Open Source: Buggy – Software Management Tool on GitHub
-             UnlimitedShortcuts - A better homepage for Chrome on Github
-             cmd-plus-plus - A more user friendly cmd for Windows on Github
+Open Source: Buggy – Software Management Tool : https://github.com/AYNSJC/Buggy
+             UnlimitedShortcuts - A better homepage for Chrome : https://github.com/AYNSJC/UnlimitedShortcuts
+             cmd-plus-plus - A more user friendly cmd for Windows : https://github.com/AYNSJC/cmd-plus-plus
