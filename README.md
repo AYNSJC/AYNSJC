@@ -19,8 +19,8 @@ I am always learning and exploring new technologies, striving to bridge the gap 
 
 ## Connect with my work:
 
-Google Play Store: A.Y.N.S.J.C. Developer Portfolio <br>
-YouTube Channel: A.Y.N.S.J.C. on YouTube <br>
+Google Play Store: A.Y.N.S.J.C. Developer Portfolio : https://play.google.com/store/apps/dev?id=4729008578849902115 <br>
+YouTube Channel: A.Y.N.S.J.C. on YouTube : https://www.youtube.com/@aynsjc <br>
 Open Source: Buggy – Software Management Tool : https://github.com/AYNSJC/Buggy <br>
              UnlimitedShortcuts - A better homepage for Chrome : https://github.com/AYNSJC/UnlimitedShortcuts <br>
              cmd-plus-plus - A more user friendly cmd for Windows : https://github.com/AYNSJC/cmd-plus-plus <br>
